@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsonnect",
+        "uuid": 6826596,
+        "checksum": "mvc1o9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
